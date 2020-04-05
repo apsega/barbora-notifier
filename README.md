@@ -1,5 +1,7 @@
 # Barbora Notifier
 
+![Docker Image CI](https://github.com/apsega/barbora-notifier/workflows/Docker%20Image%20CI/badge.svg?branch=master) ![Go](https://github.com/apsega/barbora-notifier/workflows/Go/badge.svg?branch=master)
+
 App that checks if there's available slot in Barbora eshop.
 
 ## Features
