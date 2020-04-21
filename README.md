@@ -11,7 +11,7 @@ App that checks if there's available slot in Barbora eshop.
 
 ## Getting Started
 
-Setup Slack incoming webhook - https://api.slack.com/messaging/webhooks and get unique URL, someyhing like `https://hooks.slack.com/services/xxx/xxx/xxx`
+Setup Slack incoming webhook - https://api.slack.com/messaging/webhooks and get unique URL, something like `https://hooks.slack.com/services/xxx/xxx/xxx`
 
 Clone repo and build application Docker container:
 
