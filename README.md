@@ -6,7 +6,7 @@ App that checks if there's available slot in Barbora eshop.
 
 ## Features
 
-* Checks Barbora eshop for slot availability;
+* Checks [Barbora eshop](https://www.barbora.lt/) for slot availability;
 * Prints and notifies to Slack when slot is available.
 
 ## Getting Started
@@ -16,7 +16,7 @@ Setup Slack incoming webhook - https://api.slack.com/messaging/webhooks and get 
 Clone repo and build application Docker container:
 
 ```sh
-docker build --tag barbora-notifier:1.0 .
+docker build --tag barbora-notifier:1.1 .
 ```
 
 Run Docker container:
